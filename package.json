@@ -1,0 +1,15 @@
+{
+  "name": "rollup-sourcemap-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.1",
+    "sinon": "^3.2.0"
+  },
+  "devDependencies": {
+    "rollup": "^0.47.4",
+    "rollup-plugin-commonjs": "^8.1.0",
+    "rollup-plugin-node-resolve": "^3.0.0",
+  }
+}
